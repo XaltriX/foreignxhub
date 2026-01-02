@@ -20,7 +20,7 @@ API_HASH = "f317b3f7bbe390346d8b46868cff0de8"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://rs92573993688:pVf4EeDuRi2o92ex@cluster0.9u29q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "yato"
+DB_NAME = "foreignxbot"
 
 FSUBS = [[-1001980994910, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
