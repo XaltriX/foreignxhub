@@ -43,7 +43,7 @@ MESSAGES = {
     "START": "<b>›› ʜᴇʏ!!, {first} ✨<blockquote>🌍 ᴅᴀɪʟʏ ᴠɪᴅᴇꜱʜɪ ᴀᴅᴜʟᴛ ᴠɪᴅᴇᴏꜱ<br>🎥 ᴅɪʀᴇᴄᴛ ᴠɪᴅᴇᴏ • ɴᴏ ʟɪɴᴋꜱ<br>⚡ ꜰᴀꜱᴛ & ꜱᴍᴏᴏᴛʜ ᴜᴘᴅᴀᴛᴇꜱ<br><br>📲 ꜰᴏʀ ᴍᴏʀᴇ ᴠɪᴅᴇᴏꜱ ᴊᴏɪɴ:<br>https://t.me/+eCphRNJtWLU5NmU9</blockquote></b>",
     "FSUB": "<b><blockquote>›› ʜᴇʏ {first} ✨</blockquote>\n📁 ʏᴏᴜʀ ꜰɪʟᴇ ɪꜱ ʀᴇᴀᴅʏ ‼️\n\n🔔 ɪᴛ ʟᴏᴏᴋꜱ ʟɪᴋᴇ ʏᴏᴜ ʜᴀᴠᴇɴ’ᴛ ᴊᴏɪɴᴇᴅ ᴏᴜʀ ᴄʜᴀɴɴᴇʟꜱ ʏᴇᴛ.\n\n👉 ᴊᴏɪɴ ɴᴏᴡ ᴛᴏ ᴜɴʟᴏᴄᴋ ʏᴏᴜʀ ꜰɪʟᴇꜱ\n⚡ ꜰᴀꜱᴛ • ꜱᴍᴏᴏᴛʜ • ᴘʀᴇᴍɪᴜᴍ</b>",
     "ABOUT": "<b>›› ғᴏʀ ᴍᴏʀᴇ: @Linkz_Wallah \n <blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/NeonGhost_Network'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› ᴏᴡɴᴇʀ: @NeonGhost\n›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @NeonGhost</b></blockquote>",
-    "REPLY": "<b>For More Join - @Hanime_Arena</b>",
+    "REPLY": "<b>For More Join - @Linkz_Wallah</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
     "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
