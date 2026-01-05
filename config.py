@@ -13,7 +13,7 @@ SHORT_API = "7bd8bb008b14e25c629b12456233dcc4da3a474f"
 SHORT_TUT = "https://t.me/HTODLINKZ/7"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "dyato"
 TOKEN = "8223412485:AAFqM8sejzwv4OhM9mCJ9s5EbLd4s7-S3bM"
 API_ID = "24955235"
 API_HASH = "f317b3f7bbe390346d8b46868cff0de8"
